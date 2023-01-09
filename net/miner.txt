@@ -1,0 +1,3 @@
+net.peerCount
+eth.getBalance(eth.accounts[0])
+miner.start(1)

@@ -1,0 +1,1 @@
+rm -r geth keystore node1 node2 *.key *.output *.json > /dev/null
